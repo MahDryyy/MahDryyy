@@ -22,9 +22,8 @@ Mahasiswa IT di BINUS@Malang yang antusias terhadap dunia teknologi dan terus ha
 
 
 📫 Reach me on:
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - Email: [asikmahdi@gmail.com](mailto:asikmahdi@gmail.com)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Portfolio: [https://mahdryyy.github.io/Portofolio-Website-with-three-js/.com](https://mahdryyy.github.io/Portofolio-Website-with-three-js/)
 
 📊 GitHub Stats:
 <p align="left">

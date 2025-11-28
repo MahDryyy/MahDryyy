@@ -3,7 +3,10 @@
 ![GitHub Header](image/github-header-banner.png)
 
 
-
+<picture>
+  <img src="./github-metrics.svg" alt="Metrics">
+</picture>
+  
 Mahasiswa IT di BINUS@Malang yang antusias terhadap dunia teknologi dan terus haus akan ilmu baru. Saya suka mengeksplorasi berbagai teknologi, membangun solusi digital, dan menyelesaikan masalah dengan pendekatan kreatif.
 
 🚀 I'm currently working on:

@@ -23,7 +23,7 @@ Mahasiswa IT di BINUS@Malang yang antusias terhadap dunia teknologi dan terus ha
 
 📫 Reach me on:
 - Email: [asikmahdi@gmail.com](mailto:asikmahdi@gmail.com)
-- Portfolio: [https://mahdryyy.github.io/Portofolio-Website-with-three-js/.com](https://mahdryyy.github.io/Portofolio-Website-with-three-js/)
+- Portfolio: [https://web-portofolio-self.vercel.app/](https://web-portofolio-self.vercel.app/)
 
 📊 GitHub Stats:
 <p align="left">
